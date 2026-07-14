@@ -204,4 +204,4 @@ The dashboard can support healthcare professionals in identifying high-risk pati
 
 The complete interactive dashboard has been included in this repository as a PDF for easy viewing.
 
-📄 **Dashboard File:** `Hospital Readmission\Hospital Readmission Analytics dashboard.pdf`
+📄 **Dashboard File:** `Hospital Readmission Analytics dashboard.pdf`
