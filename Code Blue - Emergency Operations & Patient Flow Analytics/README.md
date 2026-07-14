@@ -2,11 +2,11 @@
 
 
 
-\## 📌 Overview
+\## 📊 Overview
 
 
 
-This project is an interactive \*\*Power BI Healthcare Analytics Dashboard\*\* developed for the \*\*FP20 Analytics Challenge 38\*\*. The dashboard provides insights into hospital performance, workforce efficiency, and financial sustainability, enabling stakeholders to identify operational bottlenecks and support data-driven decision-making.
+\*\*Code Blue\*\* is an interactive Power BI dashboard developed for the \*\*FP20 Analytics Challenge #38\*\*. The dashboard analyzes hospital performance, workforce operations, and financial sustainability to identify operational bottlenecks and support data-driven healthcare decisions.
 
 
 
@@ -14,21 +14,23 @@ This project is an interactive \*\*Power BI Healthcare Analytics Dashboard\*\* d
 
 
 
-\## 🎯 Business Objective
+\## 🎯 Business Problem
 
 
 
-To monitor emergency department operations by answering key business questions:
+Emergency departments generate large volumes of operational and financial data, making it difficult for hospital administrators to quickly identify performance issues.
 
 
 
-\* Which hospitals experience the longest patient wait times?
+This dashboard helps answer questions such as:
+
+
+
+\* Which hospitals have the highest patient wait times?
 
 \* Which hospitals have the highest readmission risk?
 
-\* How does workforce burnout impact patient outcomes?
-
-\* How are staffing resources utilized across hospitals?
+\* Does workforce burnout affect patient outcomes?
 
 \* Which hospitals generate the highest revenue?
 
@@ -40,7 +42,7 @@ To monitor emergency department operations by answering key business questions:
 
 
 
-\## 📊 Dashboard Pages
+\## 📄 Dashboard Pages
 
 
 
@@ -48,25 +50,15 @@ To monitor emergency department operations by answering key business questions:
 
 
 
-Focuses on overall hospital performance through patient flow and quality metrics.
+\* Monitor hospital KPIs
 
+\* Identify hospitals with high wait times
 
+\* Analyze readmission rates
 
-\*\*Key Insights\*\*
+\* Compare patient satisfaction
 
-
-
-\* Sandwell General Hospital records the highest average wait time and readmission rate.
-
-\* Lower patient satisfaction is associated with longer waiting times.
-
-\* Emergency admissions account for the largest proportion of patient visits.
-
-\* Most patients belong to Low and Medium severity categories.
-
-
-
-\---
+\* Review patient severity and admission mix
 
 
 
@@ -74,25 +66,15 @@ Focuses on overall hospital performance through patient flow and quality metrics
 
 
 
-Evaluates workforce utilization and operational efficiency.
+\* Analyze staffing costs
 
+\* Track overtime trends
 
+\* Monitor staff absences
 
-\*\*Key Insights\*\*
+\* Evaluate burnout risk
 
-
-
-\* King's College Hospital and Sandwell General Hospital report the highest staff absences.
-
-\* Higher patient demand leads to increased overtime hours.
-
-\* Sandwell General Hospital shows high staff burnout alongside increased wait time, higher readmission rate, and lower patient satisfaction, indicating operational pressure.
-
-\* Staffing costs vary significantly across hospitals.
-
-
-
-\---
+\* Measure workload impact on operations
 
 
 
@@ -100,21 +82,15 @@ Evaluates workforce utilization and operational efficiency.
 
 
 
-Examines hospital financial performance and investment.
+\* Compare hospital revenue
 
+\* Analyze operational expenses
 
+\* Track government funding
 
-\*\*Key Insights\*\*
+\* Evaluate equipment investment
 
-
-
-\* King's College Hospital generates the highest revenue.
-
-\* Government funding is highest for King's College Hospital.
-
-\* Operational costs peak during the early months of the year.
-
-\* Royal Cornwall Hospital records a negative profit margin despite lower equipment investment, while hospitals with higher investments generally maintain healthier profit margins.
+\* Monitor profit margins
 
 
 
@@ -122,7 +98,25 @@ Examines hospital financial performance and investment.
 
 
 
-\## 🛠️ Tools \& Technologies
+\## 📌 Key Insights
+
+
+
+\* Sandwell General Hospital records the highest readmission rate, longest wait time, and lowest patient satisfaction.
+
+\* High staff burnout is associated with longer wait times and poorer patient outcomes.
+
+\* King's College Hospital generates the highest revenue and receives the highest government funding.
+
+\* Hospitals with higher equipment investment generally maintain healthier profit margins, while Royal Cornwall Hospital records a negative profit margin.
+
+
+
+\---
+
+
+
+\## 🛠️ Tools Used
 
 
 
@@ -134,9 +128,25 @@ Examines hospital financial performance and investment.
 
 \* Data Modeling
 
-\* Interactive Slicers
 
-\* Drill-through Navigation
+
+\---
+
+
+
+\## 📈 Features
+
+
+
+\* Executive KPI Cards
+
+\* Interactive Navigation
+
+\* Drill-through Analysis
+
+\* Dynamic Slicers
+
+\* Business Storytelling Dashboard
 
 
 
@@ -144,31 +154,11 @@ Examines hospital financial performance and investment.
 
 
 
-\## 📈 KPIs
+\## 📂 Dataset
 
 
 
-\* Total Patient Visits
-
-\* Average Wait Time
-
-\* Patient Satisfaction
-
-\* Readmission Rate
-
-\* Mortality Rate
-
-\* Bed Occupancy
-
-\* Staffing Cost
-
-\* Burnout Index
-
-\* Revenue
-
-\* Profit Margin
-
-\* Government Funding
+FP20 Analytics Challenge #38 – Healthcare Emergency Operations Dataset
 
 
 
@@ -176,21 +166,11 @@ Examines hospital financial performance and investment.
 
 
 
-\## 📁 Dataset
+\## 📷 Dashboard Preview
 
 
 
-Dataset provided as part of the \*\*FP20 Analytics Challenge 38\*\*, including:
-
-
-
-\* Patient Visits
-
-\* Workforce
-
-\* Financial Records
-
-\* Hospital Information
+\*Dashboard screenshots are included in this repository.\*
 
 
 
@@ -198,37 +178,23 @@ Dataset provided as part of the \*\*FP20 Analytics Challenge 38\*\*, including:
 
 
 
-\## 💡 Key Business Value
+\## ⭐ Business Value
 
 
 
-This dashboard helps healthcare administrators:
+This dashboard enables healthcare administrators to:
 
 
 
-\* Improve patient flow efficiency
+\* Improve patient flow
 
-\* Identify hospitals requiring operational intervention
+\* Monitor hospital performance
 
-\* Monitor workforce performance and burnout
+\* Optimize workforce allocation
 
-\* Optimize staffing decisions
+\* Evaluate financial sustainability
 
-\* Evaluate hospital financial sustainability
-
-\* Support evidence-based healthcare planning
-
-
-
-\---
-
-
-
-\## 📸 Dashboard
-
-
-
-The complete interactive dashboard has been included in this repository for easy viewing.
+\* Support strategic decision-making
 
 
 
@@ -236,5 +202,19 @@ The complete interactive dashboard has been included in this repository for easy
 
 
 
-⭐ If you found this project interesting, feel free to connect with me on LinkedIn or provide your feedback!
+\### 👤 Author
+
+
+
+\*\*Christy Susan Philip\*\*
+
+
+
+Power BI | SQL | Excel | Healthcare Analytics
+
+\---
+
+
+
+\#### ⭐ If you found this project interesting, feel free to connect with me on LinkedIn or provide your feedback!
 
