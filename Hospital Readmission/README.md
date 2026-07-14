@@ -200,8 +200,9 @@ The dashboard can support healthcare professionals in identifying high-risk pati
 - Data Storytelling
 
 ---
+
 ## 📊 Dashboard
 
-The complete interactive dashboard has been included in this repository as a PDF for easy viewing.
+The complete interactive dashboard has been included in this repository for easy viewing.
 
-📄 **Dashboard File:** [Hospital Readmission Analytics dashboard.pdf](./Hospital%20Readmission/Hospital%20Readmission%20Analytics%20dashboard.pdf)
+![Hospital Readmission Dashboard ](./Hospital%20Readmission/dashboard.png)
