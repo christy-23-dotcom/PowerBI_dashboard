@@ -205,4 +205,4 @@ The dashboard can support healthcare professionals in identifying high-risk pati
 
 The complete interactive dashboard has been included in this repository for easy viewing.
 
-![Hospital Readmission Dashboard](./Hospital%20Readmission/dashboard.png)
+![Hospital Readmission Dashboard](Hospital_Readmission_Dashboard.png)
